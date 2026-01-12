@@ -1,0 +1,4 @@
+Standardized column names
+Handled missing values
+Converted incorrect data types
+Removed duplicate records
